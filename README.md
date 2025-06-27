@@ -1,6 +1,7 @@
-# final_neuro
+NeuroPlay
 
-A new Flutter project.
+This is an app aimed in helping dyslexic kids.
+A compassionate, accessible, and kid-friendly mobile app designed to support children with dyslexia in their reading and learning journey. Our goal is to empower young learners with the tools they need to grow in confidence and skill at their own pace.
 
 ## Getting Started
 
